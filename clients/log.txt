@@ -1,0 +1,48 @@
+Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => 1723016420
+    [requestId] => 1723016420
+    [amount] => 120000
+    [responseTime] => 1723016181744
+    [message] => Thành công.
+    [resultCode] => 0
+    [payUrl] => https://test-payment.momo.vn/v2/gateway/pay?t=TU9NT0JLVU4yMDE4MDUyOXwxNzIzMDE2NDIw&s=53dd66c8460fe33177be97a30fdaede7dc60feba1dd57d3d110e002d8842a16a
+    [deeplink] => momo://app?action=payWithApp&isScanQR=false&serviceType=app&sid=TU9NT0JLVU4yMDE4MDUyOXwxNzIzMDE2NDIw&v=3.0
+    [qrCodeUrl] => momo://app?action=payWithApp&isScanQR=true&serviceType=qr&sid=TU9NT0JLVU4yMDE4MDUyOXwxNzIzMDE2NDIw&v=3.0
+    [applink] => https://test-applinks.momo.vn/payment/v2?action=payWithApp&isScanQR=false&serviceType=app&sid=TU9NT0JLVU4yMDE4MDUyOXwxNzIzMDE2NDIw&v=3.0&deeplinkCallback=http%3A%2F%2Flocalhost%2Fduan1%2Fnhom12%2Fclients%2Findex.php%3Fact%3Ddone&callBackUrl=http%3A%2F%2Flocalhost%2Fduan1%2Fnhom12%2Fclients%2Findex.php%3Fact%3Ddone
+    [deeplinkMiniApp] => momo://app?action=payWithApp&isScanQR=false&serviceType=miniapp&sid=TU9NT0JLVU4yMDE4MDUyOXwxNzIzMDE2NDIw&v=3.0
+    [signature] => f108064adac91cade3019b32df12bbc3dafb124acd50ec2b31ddbc0e3f7113ef
+)
+Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => 1723016533
+    [requestId] => 1723016533
+    [amount] => 240000
+    [responseTime] => 1723016292999
+    [message] => Thành công.
+    [resultCode] => 0
+    [payUrl] => https://test-payment.momo.vn/v2/gateway/pay?t=TU9NT0JLVU4yMDE4MDUyOXwxNzIzMDE2NTMz&s=3ebb4d1ef45672e8e385245de5d4a8a26ff18fa21c8e8192e685f87021fcd9cb
+    [deeplink] => momo://app?action=payWithApp&isScanQR=false&serviceType=app&sid=TU9NT0JLVU4yMDE4MDUyOXwxNzIzMDE2NTMz&v=3.0
+    [qrCodeUrl] => momo://app?action=payWithApp&isScanQR=true&serviceType=qr&sid=TU9NT0JLVU4yMDE4MDUyOXwxNzIzMDE2NTMz&v=3.0
+    [applink] => https://test-applinks.momo.vn/payment/v2?action=payWithApp&isScanQR=false&serviceType=app&sid=TU9NT0JLVU4yMDE4MDUyOXwxNzIzMDE2NTMz&v=3.0&deeplinkCallback=http%3A%2F%2Flocalhost%2Fduan1%2Fnhom12%2Fclients%2Findex.php%3Fact%3Ddone&callBackUrl=http%3A%2F%2Flocalhost%2Fduan1%2Fnhom12%2Fclients%2Findex.php%3Fact%3Ddone
+    [deeplinkMiniApp] => momo://app?action=payWithApp&isScanQR=false&serviceType=miniapp&sid=TU9NT0JLVU4yMDE4MDUyOXwxNzIzMDE2NTMz&v=3.0
+    [signature] => 15b8cd92ced534ba274e0f09931e2eef336fe78d61fb901d5b4f7de547b33d36
+)
+Array
+(
+    [partnerCode] => MOMOBKUN20180529
+    [orderId] => 1723016611
+    [requestId] => 1723016611
+    [amount] => 1440000
+    [responseTime] => 1723016371749
+    [message] => Thành công.
+    [resultCode] => 0
+    [payUrl] => https://test-payment.momo.vn/v2/gateway/pay?t=TU9NT0JLVU4yMDE4MDUyOXwxNzIzMDE2NjEx&s=52c3960f9b591c23e3ae0efbf66f571d6138869faae91b3fbe3ae6f9a00b476e
+    [deeplink] => momo://app?action=payWithApp&isScanQR=false&serviceType=app&sid=TU9NT0JLVU4yMDE4MDUyOXwxNzIzMDE2NjEx&v=3.0
+    [qrCodeUrl] => momo://app?action=payWithApp&isScanQR=true&serviceType=qr&sid=TU9NT0JLVU4yMDE4MDUyOXwxNzIzMDE2NjEx&v=3.0
+    [applink] => https://test-applinks.momo.vn/payment/v2?action=payWithApp&isScanQR=false&serviceType=app&sid=TU9NT0JLVU4yMDE4MDUyOXwxNzIzMDE2NjEx&v=3.0&deeplinkCallback=http%3A%2F%2Flocalhost%2Fduan1%2Fnhom12%2Fclients%2Findex.php%3Fact%3Ddone_momo&callBackUrl=http%3A%2F%2Flocalhost%2Fduan1%2Fnhom12%2Fclients%2Findex.php%3Fact%3Ddone_momo
+    [deeplinkMiniApp] => momo://app?action=payWithApp&isScanQR=false&serviceType=miniapp&sid=TU9NT0JLVU4yMDE4MDUyOXwxNzIzMDE2NjEx&v=3.0
+    [signature] => a438a7287b575bcbbf8ebda8308389b3531b9838c2031b44f711ce3ada2f4c74
+)
